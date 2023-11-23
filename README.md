@@ -2,11 +2,11 @@
 
 Hello everyone !!
 
-I'm excited to share my latest Hotel booking cancellation project by Excel✨✨
+I'm excited to share my latest Hotel booking cancellation project by Excel
 
 Objective :-
 
-The objective of this project is to analyze customer behavior in making hotel reservation and identify factors that impact the cancellation rate of reservation .📉📊
+The objective of this project is to analyze customer behavior in making hotel reservation and identify factors that impact the cancellation rate of reservation.
 
 Tools used :- Microsoft Excel
 
