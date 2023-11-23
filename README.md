@@ -8,6 +8,13 @@ The objective of this project is to analyze customer behavior in making hotel re
 
 Tools used :- Microsoft Excel
 
+Steps :-
+
+- Data Cleaning:- Ensured the data was free of errors, inconsistencies, and duplicate.
+- Data Processing: - Prepared the data for analysis by organizing and formatting it appropriately.
+- Data Analysis: - Use various analytical techniques to drive insights and draw meaningful conclusions.
+- Data Visualization: - Present the findings through charts and graphs.
+
 Insights :-
 
 - For the resort hotel ,a total of 27.76% Booking were cancelled and for city hotel and total of 41.73% booking were cancelled.
